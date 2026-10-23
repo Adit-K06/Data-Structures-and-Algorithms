@@ -1,0 +1,20 @@
+# Compiled C/C++ artifacts
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Build output
+build/
+cmake-build-*/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+.vscode/
+.idea/
